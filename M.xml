@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <orderNum>20170101001</orderNum>
+    <orderName>食品</orderName>
+    <orderClient>张三</orderClient>
+    <ClientPhone>12345612345</ClientPhone>
+    <goodName>薯片</goodName>
+    <goodPrice>5</goodPrice>
+    <goodNum>4</goodNum>
+    <tot>20</tot>
+  </Order>
+  <Order>
+    <orderNum>20170101002</orderNum>
+    <orderName>饮品</orderName>
+    <orderClient>张三</orderClient>
+    <ClientPhone>12345667890</ClientPhone>
+    <goodName>矿泉水</goodName>
+    <goodPrice>1</goodPrice>
+    <goodNum>6</goodNum>
+    <tot>6</tot>
+  </Order>
+</ArrayOfOrder>
